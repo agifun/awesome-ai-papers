@@ -16,3 +16,18 @@
 我们这群"论文猎人"会持续为你捕捉最优质的AI论文，严格把关，确保每一篇都是珍品。
 
 **准备好来一场AI论文的饕餮盛宴了吗？点个star不迷路，一起在AI的海洋里畅游吧！**
+
+
+
+## AI发展简史
+![image](https://github.com/user-attachments/assets/bb3c2dc9-c80f-4ead-9b5f-ca6a16259d34)
+
+出处：
+> @INPROCEEDINGS
+> {Tang:08KDD,
+>  AUTHOR = "Jie Tang and Jing Zhang and Limin Yao and Juanzi Li and Li Zhang and Zhong Su",
+>  TITLE = "ArnetMiner: Extraction and Mining of Academic Social Networks",
+>  pages = "990-998",
+>  YEAR = {2008},
+>  BOOKTITLE = "KDD'08",
+> }
