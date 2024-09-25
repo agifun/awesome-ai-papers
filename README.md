@@ -20,9 +20,6 @@
 
 
 ## AI发展简史
-![image](https://github.com/user-attachments/assets/bb3c2dc9-c80f-4ead-9b5f-ca6a16259d34)
-
-
 - 1950年: 艾伦·图灵提出"图灵测试"，这是判断机器是否具有智能的一种方法。
 
 - 1956年: 达特茅斯夏季研究会议召开，被认为是人工智能研究的正式开端。
@@ -56,8 +53,6 @@
 - 2014年: Ian Goodfellow提出生成对抗网络(GAN)。
 
 - 2015年: 谷歌DeepMind的AlphaGo程序击败职业围棋选手。
-
-- 基于图片内容并结合实际发展情况，我将补充2016年之后到2024年的人工智能发展时间线：
 
 - 2016年：
   - AlphaGo击败世界顶级围棋选手李世石，标志着AI在复杂策略游戏中超越人类。
@@ -95,10 +90,11 @@
   - AI辅助编程工具广泛应用，提高软件开发效率。
   - 多模态AI模型在教育、医疗等领域的应用不断深化。
   - AI伦理和监管成为全球热点话题，各国加强相关立法。
+  - 
+![image](https://github.com/user-attachments/assets/bb3c2dc9-c80f-4ead-9b5f-ca6a16259d34)
 
-这个时间线展示了AI在近年来的快速发展，特别是在大规模语言模型、计算机视觉、多模态AI等领域取得的重大进展，以及AI技术在各行各业中的广泛应用和其引发的社会讨论。
 
-出处：
+图片出处：
 > @INPROCEEDINGS
 > {Tang:08KDD,
 >  AUTHOR = "Jie Tang and Jing Zhang and Limin Yao and Juanzi Li and Li Zhang and Zhong Su",
